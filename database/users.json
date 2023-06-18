@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "username": "Sevara",
+        "password": "123456789",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxYtg6vEQsrMfjuhxfNBYMalFzpOgoPRriA&usqp=CAU",
+        "socketId": null
+    },
+    {
+        "userId": 2,
+        "username": "Dilshod",
+        "password": "123456789",
+        "avatar": "https://i.pinimg.com/originals/9b/e0/83/9be083f1a9965bd26d7943c719767063.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 3,
+        "username": "Muslima",
+        "password": "123456789",
+        "avatar": "https://imgrosetta.mynet.com.tr/file/1078058/1200x824.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 4,
+        "username": "Manzura",
+        "password": "123456789",
+        "avatar": "https://i.pinimg.com/originals/fb/bd/37/fbbd375a8f112d0ec92a0923f8d8b918.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 5,
+        "username": "Soliha",
+        "password": "2008",
+        "avatar": "https://i.pinimg.com/originals/d2/0e/d5/d20ed5f14ac2ce5d544557f4ed0ce0d5.jpg",
+        "socketId": null
+    }
+]
